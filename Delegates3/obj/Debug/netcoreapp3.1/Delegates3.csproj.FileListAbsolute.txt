@@ -1,0 +1,10 @@
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.exe
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.deps.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.runtimeconfig.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.AssemblyInfo.cs
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.pdb
