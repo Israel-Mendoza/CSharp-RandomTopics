@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\bin\Debug\netcoreapp3.1\Random1.exe
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\bin\Debug\netcoreapp3.1\Random1.deps.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\bin\Debug\netcoreapp3.1\Random1.runtimeconfig.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\bin\Debug\netcoreapp3.1\Random1.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\bin\Debug\netcoreapp3.1\Random1.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\bin\Debug\netcoreapp3.1\Random1.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\obj\Debug\netcoreapp3.1\Random1.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\obj\Debug\netcoreapp3.1\Random1.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\obj\Debug\netcoreapp3.1\Random1.AssemblyInfo.cs
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\obj\Debug\netcoreapp3.1\Random1.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\Random1\obj\Debug\netcoreapp3.1\Random1.pdb
