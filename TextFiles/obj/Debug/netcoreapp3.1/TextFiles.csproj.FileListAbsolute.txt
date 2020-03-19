@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.exe
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.deps.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\TextFiles.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.AssemblyInfo.cs
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\TextFiles.csprojAssemblyReference.cache
