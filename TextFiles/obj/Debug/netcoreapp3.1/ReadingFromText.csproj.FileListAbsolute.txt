@@ -1,0 +1,11 @@
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\ReadingFromText.exe
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\ReadingFromText.deps.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\ReadingFromText.runtimeconfig.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\ReadingFromText.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\ReadingFromText.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\bin\Debug\netcoreapp3.1\ReadingFromText.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\ReadingFromText.csprojAssemblyReference.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\ReadingFromText.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\ReadingFromText.AssemblyInfo.cs
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\ReadingFromText.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\TextFiles\obj\Debug\netcoreapp3.1\ReadingFromText.pdb

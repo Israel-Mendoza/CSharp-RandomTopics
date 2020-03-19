@@ -1,0 +1,10 @@
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\bin\Debug\netcoreapp3.1\WritingToTextFile.exe
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\bin\Debug\netcoreapp3.1\WritingToTextFile.deps.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\bin\Debug\netcoreapp3.1\WritingToTextFile.runtimeconfig.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\bin\Debug\netcoreapp3.1\WritingToTextFile.runtimeconfig.dev.json
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\bin\Debug\netcoreapp3.1\WritingToTextFile.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\bin\Debug\netcoreapp3.1\WritingToTextFile.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.AssemblyInfoInputs.cache
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.AssemblyInfo.cs
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.dll
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.pdb
