@@ -8,3 +8,4 @@ C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcore
 C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.AssemblyInfo.cs
 C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.dll
 C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.pdb
+C:\Users\Israel Mendoza\Documents\C#\RandomTests\WritingToFile\obj\Debug\netcoreapp3.1\WritingToTextFile.csprojAssemblyReference.cache

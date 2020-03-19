@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace WritingToTextFile
@@ -24,6 +25,11 @@ namespace WritingToTextFile
             myLines2[3] = "¿Otra? Bueeeno...";
             myLines2[4] = "¿Neta?";
 
+            List<string> myLines3 = new List<string>();
+            foreach (var line in myLines2)
+                myLines3.Add(line);
+
+
             // Writing the lines to the file
             File.WriteAllLines(@"C:\Users\Israel Mendoza\Documents\IsraelByLines.txt", myLines);
 
@@ -46,7 +52,7 @@ namespace WritingToTextFile
 
             using (StreamWriter streamWriterObj = new StreamWriter(@"C:\Users\Israel Mendoza\Documents\UsingStreamWriter.txt", true))
             {
-                foreach (var line in myLines2)
+                foreach (var line in myLines3)
                     streamWriterObj.WriteLine(line);
             }
         }
